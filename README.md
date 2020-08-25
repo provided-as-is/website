@@ -13,3 +13,7 @@ Open an issue and suggest how we could do it, what features you'd like to see in
 ## License
 
 At the moment, we have decided to go for the standard MIT license.
+
+---
+
+**You can find information about the events and/or give feedback about them in the main [events repo](https://github.com/provided-as-is/events).**
